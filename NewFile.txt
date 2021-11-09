@@ -1,0 +1,4 @@
+1 Pernille 12,2
+2 Jonas 22,2
+3 Andras 9,12
+4 Marcus 21,9
